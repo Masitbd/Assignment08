@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "gender": "Male",
+    "age": 50,
+    "salary": 30000,
+    "education": "Bsc in CSC",
+    "img": "https://t4.ftcdn.net/jpg/01/36/86/77/240_F_136867788_5Ptj2XlTHRbLxg6foE0eJiFXKFRbReBN.jpg",
+    "country": "Bangladesh",
+    "email": "caitlin.lopez@example.com",
+    "phone": "01768754282"
+  },
+  {
+    "id": 2,
+    "name": "Abdul Karim",
+    "gender": "Male",
+    "age": 40,
+    "salary": 23000,
+    "education": "MSC in CSC",
+    "img": "https://image.freepik.com/free-photo/smiling-young-man-working-computer-cozy-cafe-bar-restaurant_342744-47.jpg",
+    "country": "India",
+    "email": "karim@example.com",
+    "phone": "0176899992"
+  },
+  {
+    "id": 3,
+    "name": "Murad Sarker",
+    "gender": "Male",
+    "age": 41,
+    "salary": 25000,
+    "education": "Bsc in CSC",
+    "img": "https://image.freepik.com/free-photo/businessman-home-using-phone-chatting-business-communication-freelance-work-home-office-onlin_129180-6294.jpg",
+    "country": "Bangladesh",
+    "email": "sarker@example.com",
+    "phone": "01768799933"
+  },
+  {
+    "id": 4,
+    "name": "Yakubu osini",
+    "gender": "Male",
+    "age": 30,
+    "salary": 23000,
+    "education": "Bsc in CSC",
+    "img": "https://image.freepik.com/free-photo/businessman-home-using-phone-chatting-business-communication-freelance-work-home-office-onlin_129180-6294.jpg",
+    "country": "Nigeria",
+    "email": "osini@example.com",
+    "phone": "01768754282"
+  },
+  {
+    "id": 5,
+    "name": "Uzair Sulaiman",
+    "gender": "Male",
+    "age": 30,
+    "salary": 22000,
+    "education": "Bsc in CSC",
+    "img": "https://image.freepik.com/free-photo/office-worker_1098-18352.jpg",
+    "country": "Pakistan",
+    "email": "uzair@example.com",
+    "phone": "017687522333"
+  },
+  {
+    "id": 6,
+    "name": "Abdul Kader",
+    "gender": "Male",
+    "age": 29,
+    "salary": 21000,
+    "education": "Bsc in CSC",
+    "img": "https://image.freepik.com/free-photo/professional-software-developer-working-office-desk_522218-289.jpg",
+    "country": "Iran",
+    "email": "kadir@example.com",
+    "phone": "017687522333"
+  }
+]

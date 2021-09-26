@@ -1,0 +1,14 @@
+.Header{
+  text-align: center;
+  background-color: skyblue;
+  width: 95%;
+  margin: auto;
+  padding: 10px;
+  
+}
+.header-title{
+  color:#FF5733 ;
+}
+.budget{
+  color: white;
+}

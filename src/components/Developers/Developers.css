@@ -1,0 +1,25 @@
+.developer-container{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.information-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-right: 1px solid gray;
+  margin: 10px;
+}
+
+.card-container{
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  height: 500px;
+  border: 1px solid gray;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+  font-family: arial;
+  width: 92%;
+}
+
+.cart-header{
+color: tomato;
+}
